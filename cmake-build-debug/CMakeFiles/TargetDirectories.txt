@@ -1,0 +1,3 @@
+/home/ramecy-alderson/DSA QUESTIONS/OOPs A04/cmake-build-debug/CMakeFiles/OOPs_A04.dir
+/home/ramecy-alderson/DSA QUESTIONS/OOPs A04/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ramecy-alderson/DSA QUESTIONS/OOPs A04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
